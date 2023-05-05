@@ -1,2 +1,1 @@
-# analog-clock-js
-Relógio Analógico utilizando a linguagem Javascript
+Relógio Analógico utilizando HTML, CSS e JavaScript
